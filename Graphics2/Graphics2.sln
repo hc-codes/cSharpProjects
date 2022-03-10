@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics2", "Graphics2\Graphics2.csproj", "{90E46C8C-748C-40CD-902F-EA9FA8B83026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsLib2", "..\Abstract1\GraphicsLib2\GraphicsLib2.csproj", "{810542C2-A3DB-42E0-A2A5-2024A22F7131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E46C8C-748C-40CD-902F-EA9FA8B83026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E46C8C-748C-40CD-902F-EA9FA8B83026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E46C8C-748C-40CD-902F-EA9FA8B83026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E46C8C-748C-40CD-902F-EA9FA8B83026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810542C2-A3DB-42E0-A2A5-2024A22F7131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810542C2-A3DB-42E0-A2A5-2024A22F7131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810542C2-A3DB-42E0-A2A5-2024A22F7131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810542C2-A3DB-42E0-A2A5-2024A22F7131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B64650C7-F13A-4C71-B327-8BF63984C930}
+	EndGlobalSection
+EndGlobal

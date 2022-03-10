@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCalc", "WinCalc\WinCalc.csproj", "{AFBB2879-EB1E-424A-96C4-A660441B5397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBB2879-EB1E-424A-96C4-A660441B5397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBB2879-EB1E-424A-96C4-A660441B5397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBB2879-EB1E-424A-96C4-A660441B5397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBB2879-EB1E-424A-96C4-A660441B5397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94450DF3-AF69-4391-9E4E-4C3B65052978}
+	EndGlobalSection
+EndGlobal

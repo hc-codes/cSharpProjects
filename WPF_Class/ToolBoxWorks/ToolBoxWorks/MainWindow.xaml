@@ -1,0 +1,43 @@
+﻿<Window x:Class="ToolBoxWorks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolBoxWorks"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid   Margin="10" >
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Content="Name"   Grid.Row="3" />
+            <Label Content="Password"   Grid.Row="5" />
+            <TextBox Grid.Column="1" HorizontalAlignment="Stretch"  Margin="13.2,1.4,13.4,0" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Center" />
+            <TextBox Grid.Column="1" HorizontalAlignment="Stretch"  Margin="9.6,6.2,10.4,7.4" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Center" />
+        </Grid>
+
+    </Grid>
+</Window>

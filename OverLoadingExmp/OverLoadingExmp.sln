@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverLoadingExmp", "OverLoadingExmp\OverLoadingExmp.csproj", "{8D65D06E-B200-4DAC-B0DF-C4BEE630992E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D65D06E-B200-4DAC-B0DF-C4BEE630992E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D65D06E-B200-4DAC-B0DF-C4BEE630992E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D65D06E-B200-4DAC-B0DF-C4BEE630992E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D65D06E-B200-4DAC-B0DF-C4BEE630992E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7202F18C-5B67-42C6-824D-4D9D16F7985E}
+	EndGlobalSection
+EndGlobal
